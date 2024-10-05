@@ -8,12 +8,17 @@ _____________________________________________________
 
 ### How to start a project:
 * Download the project from the repository
-* Open the console and install the container build and launch system if it is not already installed
-### Run the project build command:
+### Install utils for Ubuntu:
+```
+sudo apt install docker-compose
+```
+
+#### Run the project build command:
 ```
 command: cd ./Manager_password
 command: docker-compose up --build
 ```
+____________________________________________
 ### Example Manager_password:
 
 ```
