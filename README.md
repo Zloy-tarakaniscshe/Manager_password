@@ -1,4 +1,4 @@
-# Manager_password
+# Manager_password (TestTask)
 ![Static Badge](https://img.shields.io/badge/3.11-blue?label=Python)
 ![Static Badge](https://img.shields.io/badge/Django-blue)
 ![Static Badge](https://img.shields.io/badge/Django_Rest_Framework-green)
